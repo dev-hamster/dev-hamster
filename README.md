@@ -1,5 +1,4 @@
-### Hi there 👋
-
+햄스터와 css를 좋아하는 개발자 입니다 🐹
 <!--
 **dev-hamster/dev-hamster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
